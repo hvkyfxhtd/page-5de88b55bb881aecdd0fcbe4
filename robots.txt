@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://p-4e4460785d.leliyi.cn/sitemap.xml
